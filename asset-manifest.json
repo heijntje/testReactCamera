@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/testReactCamera/static/css/main.a617e044.chunk.css",
+    "main.js": "/testReactCamera/static/js/main.810071d4.chunk.js",
+    "main.js.map": "/testReactCamera/static/js/main.810071d4.chunk.js.map",
+    "runtime-main.js": "/testReactCamera/static/js/runtime-main.b6626cba.js",
+    "runtime-main.js.map": "/testReactCamera/static/js/runtime-main.b6626cba.js.map",
+    "static/js/2.89e122c2.chunk.js": "/testReactCamera/static/js/2.89e122c2.chunk.js",
+    "static/js/2.89e122c2.chunk.js.map": "/testReactCamera/static/js/2.89e122c2.chunk.js.map",
+    "static/js/3.41adb85f.chunk.js": "/testReactCamera/static/js/3.41adb85f.chunk.js",
+    "static/js/3.41adb85f.chunk.js.map": "/testReactCamera/static/js/3.41adb85f.chunk.js.map",
+    "index.html": "/testReactCamera/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/testReactCamera/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.89e122c2.chunk.js.LICENSE.txt": "/testReactCamera/static/js/2.89e122c2.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/testReactCamera/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6626cba.js",
+    "static/js/2.89e122c2.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.810071d4.chunk.js"
+  ]
+}
