@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
@@ -17,6 +17,12 @@ function App() {
         >
           Learn React
         </a>
+        <input
+          accept="image/*"
+          id="icon-button-file"
+          type="file"
+          capture="environment"
+        />
       </header>
     </div>
   );
